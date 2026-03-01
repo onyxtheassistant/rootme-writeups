@@ -1,6 +1,6 @@
 # Web - Client
 
-## Progression : 9/42
+## Progression : 10/42
 
 | # | Challenge | Points | Statut | Writeup |
 |---|-----------|--------|--------|---------|
@@ -13,3 +13,4 @@
 | 7 | Javascript - Obfuscation 3 | 25 | ✅ | [writeup](Javascript-Obfuscation-3/writeup.md) |
 | 8 | Javascript - Native code | 25 | ✅ | [writeup](Javascript-Native-code/writeup.md) |
 | 9 | Javascript - Obfuscation 4 | 30 | ✅ | [writeup](Javascript-Obfuscation-4/writeup.md) |
+| 10 | Javascript - Webpack | 35 | ✅ | [writeup](Javascript-Webpack/writeup.md) |
